@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/djreact/static/css/main.f707b2af.chunk.css",
+    "main.js": "/djreact/static/js/main.c4365013.chunk.js",
+    "main.js.map": "/djreact/static/js/main.c4365013.chunk.js.map",
+    "runtime-main.js": "/djreact/static/js/runtime-main.cb269932.js",
+    "runtime-main.js.map": "/djreact/static/js/runtime-main.cb269932.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/djreact/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.99c5ac52.chunk.js": "/djreact/static/js/2.99c5ac52.chunk.js",
+    "static/js/2.99c5ac52.chunk.js.map": "/djreact/static/js/2.99c5ac52.chunk.js.map",
+    "static/js/3.01ed2005.chunk.js": "/djreact/static/js/3.01ed2005.chunk.js",
+    "static/js/3.01ed2005.chunk.js.map": "/djreact/static/js/3.01ed2005.chunk.js.map",
+    "index.html": "/djreact/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/djreact/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.f707b2af.chunk.css.map": "/djreact/static/css/main.f707b2af.chunk.css.map",
+    "static/js/2.99c5ac52.chunk.js.LICENSE.txt": "/djreact/static/js/2.99c5ac52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb269932.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.99c5ac52.chunk.js",
+    "static/css/main.f707b2af.chunk.css",
+    "static/js/main.c4365013.chunk.js"
+  ]
+}
