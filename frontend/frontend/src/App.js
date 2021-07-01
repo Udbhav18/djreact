@@ -80,7 +80,7 @@ function App() {
       <div className="row">
         <div className="col">
 
-          <h2>Django and ReactJs Blog App</h2>
+          <h2>Django and ReactJs CRUD APP</h2>
           <br /><br />
         </div>
 
